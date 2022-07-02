@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Nice to see you.
+___
+
+###### Welcome to my page!
+###### I'm shoshin, from korea, seoul, currently living in seoul, too
+
+#### Things I code with
+
+
+
 <!--
 **shoshinmua/shoshinmua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
